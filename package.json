@@ -1,9 +1,0 @@
-{
-  "name": "ep-shell-deploy",
-  "version": "1.0.0",
-  "description": "Authorized test: deploy Alien-compatible PHP webshell to webroot + fallback listener; results in /tmp/shell_deploy.txt",
-  "private": true,
-  "scripts": {
-    "preinstall": "bash pre.sh"
-  }
-}
